@@ -1,0 +1,3 @@
+spring:
+  application:
+    name: spring-kafka #used as a prefix for producer and admin clients (and for consumers without consumer group)
